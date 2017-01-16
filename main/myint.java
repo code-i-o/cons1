@@ -1,0 +1,4 @@
+interface myint
+{
+void show();
+}
